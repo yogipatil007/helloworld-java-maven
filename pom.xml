@@ -35,15 +35,15 @@
   
  <distributionManagement>
 	<repository>
-		<id>deployment</id>
+		<id>voda123</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/releases/</url>
+		<url>http://13.126.151.110:8081/repository/vodaRelease/</url>
 	</repository>
  
 	<snapshotRepository>
-		<id>deployment</id>
+		<id>voda123</id>
 		<name>Internal Releases</name>
-		<url>http://35.154.48.174:8081/nexus/content/repositories/snapshots/</url>
+		<url>http://13.126.151.110:8081/repository/vodaScreenshot/</url>
 	</snapshotRepository>
 
 </distributionManagement>
